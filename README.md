@@ -1,6 +1,6 @@
 # README
 
-The code of "*a paper*".
+We use Anonymous Github for the double-blind reviewing policy.
 
 ### Environment
 
