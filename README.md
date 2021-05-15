@@ -1,6 +1,6 @@
 # README
 
-The code of "*Block Term Decomposition with Distinct Time Granularities for Temporal Knowledge Graph Completion*".
+The code of "*a paper*".
 
 ### Environment
 
